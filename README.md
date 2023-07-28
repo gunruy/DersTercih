@@ -1,0 +1,2 @@
+# DersTercih
+Ders Tercih Otomasyonu
